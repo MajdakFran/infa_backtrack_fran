@@ -1,0 +1,5 @@
+projekt koji radim za skolu.
+U ovom projektu je cilj napraviti algoritam koji ce rjesavati 
+knight's tour za 9x9 plocu
+
+sto je knight's tour? --->  https://en.wikipedia.org/wiki/Knight%27s_tour
